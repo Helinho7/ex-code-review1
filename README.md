@@ -3,3 +3,4 @@
 - Variáveis claras
 - Sem dados sensíveis
 
+<!-- Alteração para teste de Pull Request -->
